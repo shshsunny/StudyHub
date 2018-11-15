@@ -3,11 +3,11 @@
   <title>StudyHub</title>
   
   <subtitle>学习信息分享博客</subtitle>
-  <link href="/StudyHub/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="shshsunny.github.io/StudyHub/"/>
+  <link href="vstudy.tk/"/>
   <updated>2018-11-15T01:59:08.025Z</updated>
-  <id>shshsunny.github.io/StudyHub/</id>
+  <id>vstudy.tk/</id>
   
   <author>
     <name>StudyHub</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>博客已上线</title>
-    <link href="shshsunny.github.io/StudyHub/2018/11/13/%E5%8D%9A%E5%AE%A2%E5%B7%B2%E4%B8%8A%E7%BA%BF/"/>
-    <id>shshsunny.github.io/StudyHub/2018/11/13/博客已上线/</id>
+    <link href="vstudy.tk/2018/11/13/%E5%8D%9A%E5%AE%A2%E5%B7%B2%E4%B8%8A%E7%BA%BF/"/>
+    <id>vstudy.tk/2018/11/13/博客已上线/</id>
     <published>2018-11-13T14:09:01.000Z</published>
     <updated>2018-11-15T01:59:08.025Z</updated>
     
@@ -34,7 +34,7 @@
     
     </summary>
     
-      <category term="本站通知" scheme="shshsunny.github.io/StudyHub/categories/%E6%9C%AC%E7%AB%99%E9%80%9A%E7%9F%A5/"/>
+      <category term="本站通知" scheme="vstudy.tk/categories/%E6%9C%AC%E7%AB%99%E9%80%9A%E7%9F%A5/"/>
     
     
   </entry>
