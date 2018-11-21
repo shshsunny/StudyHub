@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="vstudy.tk/"/>
-  <updated>2018-11-15T01:59:08.025Z</updated>
+  <updated>2018-11-21T12:26:35.254Z</updated>
   <id>vstudy.tk/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>GTD与目标管理app推荐</title>
+    <link href="vstudy.tk/2018/11/21/GTD%E4%B8%8E%E7%9B%AE%E6%A0%87%E7%AE%A1%E7%90%86app%E6%8E%A8%E8%8D%90/"/>
+    <id>vstudy.tk/2018/11/21/GTD与目标管理app推荐/</id>
+    <published>2018-11-21T12:12:40.000Z</published>
+    <updated>2018-11-21T12:26:35.254Z</updated>
+    
+    <content type="html"><![CDATA[<p>太久没有更新博客了，先在这里推荐一些有用的应用。</p><h2 id="GTD"><a href="#GTD" class="headerlink" title="GTD"></a>GTD</h2><p>GTD（Get things done），可以搜索一下这是什么玩意。</p><p><strong>Doit.im</strong></p><p><a href="https://doit.im" target="_blank" rel="noopener">Doit.im</a>是一个老牌项目管理软件。</p><p><strong>Pomotodo</strong></p><p><a href="https://pomotodo.com" target="_blank" rel="noopener">Pomotodo</a>（番茄土豆）是一个基于番茄工作法的时间管理软件，但是现在还无法很好地与Doit.im联合使用。</p><p><strong>Toggl</strong></p><p><a href="https://toggl.com" target="_blank" rel="noopener">Toggl</a>与Pomotodo有些类似，但是重在管理、分析时间的使用，目前只有英文版本。</p><p><strong>iHour</strong></p><p>国产时间投资计划app，支持移动端，用起来比较顺手。</p><p><strong>Forest</strong></p><p><a href="https://forestapp.cc" target="_blank" rel="noopener">Forest app</a>是一个特别有趣的，非主流番茄工作法软件，以种植花草树木为激发你工作的动力。</p><h2 id="习惯管理"><a href="#习惯管理" class="headerlink" title="习惯管理"></a>习惯管理</h2><p><strong>Goalify</strong></p><p><a href="https://goalifyapp.com" target="_blank" rel="noopener">Goalify</a>是一款德国人开发的，界面美观的习惯打卡软件，支持账号登录同步和多人分享，目前只支持英语和德语。它的专业版是<a href="https://goalifypro.com" target="_blank" rel="noopener">Goalify Pro</a>。</p><p><strong>种子习惯</strong></p><p>每当你想达成一个目标时，种下一粒种子。支持账号登录。</p><p><strong>微习惯</strong></p><p>商务简介风格界面，用法与种子习惯类似。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;太久没有更新博客了，先在这里推荐一些有用的应用。&lt;/p&gt;
+&lt;h2 id=&quot;GTD&quot;&gt;&lt;a href=&quot;#GTD&quot; class=&quot;headerlink&quot; title=&quot;GTD&quot;&gt;&lt;/a&gt;GTD&lt;/h2&gt;&lt;p&gt;GTD（Get things done），可以搜索一下这是什么玩意。
+      
+    
+    </summary>
+    
+      <category term="应用推荐" scheme="vstudy.tk/categories/%E5%BA%94%E7%94%A8%E6%8E%A8%E8%8D%90/"/>
+    
+    
+      <category term="GTD" scheme="vstudy.tk/tags/GTD/"/>
+    
+      <category term="习惯" scheme="vstudy.tk/tags/%E4%B9%A0%E6%83%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>博客已上线</title>
